@@ -61,6 +61,7 @@ button{
 input{
     width:100%;
     border-radius: 5px;
+    padding: 5px;
 }
 textarea{
     width:100%;
@@ -71,14 +72,25 @@ textarea{
     background-color: transparent;
     padding: 0px;
 }
+@media (min-width: 768px){
+.carousel-inner{
+    height: 490px;
+    
+    }
+}
+
 
 .rightbanner{
     border-radius: 5px;
-    background-color: #fff;
+    background-color: none;
+    border: 2px solid #fff;
+    min-height: 490px;
 }
 .leftbanner{
-        padding-left: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
 }
+
 .row {
     margin-right: 0px;
     margin-left: 0px;
@@ -91,14 +103,9 @@ textarea{
     width: 47%;
     padding-left: 5px;
 }
-.leftbb{
-    width: 48%
-}
-.rightbb{
-    width: 48%
-}
+
 .myac{
-    border: 1px solid #ddd;
+    border: 2px solid #fff;
     padding: 20px;
     margin-bottom: 20px;
 }

@@ -36,24 +36,25 @@
 		    <h4 class="text-center"><b>Our Address</b></h4>
 		    <!-- <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p> -->
 		    <p>
-		        <i class="icon-map-marker pull-left"></i> Kupondole<br>
+		        Kupondole<br>
 		        Lalitpur,  Nepal
 		    </p>
 		    <p>
-		        <i class="icon-envelope"></i> &nbsp;info@omnitextsolution.com
+		        info@omnitextsolution.com
 		    </p>
 		    <p>
-		        <i class="icon-phone"></i> &nbsp;+9779815720356
+		        +9779815720356
 		    </p>
 		    <p>
-		        <i class="icon-globe"></i> &nbsp;http://www.omnitextsolution.com
+		        http://www.omnitextsolution.com
 		    </p>
 		</div>
 		<hr>
 		<section class="no-margin">
 		    <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?hl=en&q=kupondole&ie=UTF8&t=roadmap&z=17&iwloc=B&output=embed"></iframe>
 		</section>
-	  </div35	  <div class="col-sm-3 col-md-3 col-lg-3">
+	  </div>
+	  <div class="col-sm-3 col-md-3 col-lg-3">
 	  </div>
 	</div>
 <?php include('footer.php'); ?>

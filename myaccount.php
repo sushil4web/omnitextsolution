@@ -1,5 +1,4 @@
 <?php include('header.php'); ?>
-        <div class="container">
           <h1 class="text-center">Login to Your Account</h1>
         <form class="myac">
           <div class="form-group">
@@ -20,6 +19,4 @@
         <h3>Login help</h3>
         <h6><a href="">Forgot your password?</a><h6>
         <h6>New Member? <a href="">Creat New Account</a><h6>
-
-        </div>
 <?php include('footer.php'); ?>
