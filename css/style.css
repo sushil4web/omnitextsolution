@@ -1,0 +1,104 @@
+body{
+    background-color: #AAD031;
+}
+.navbar-default {
+    min-height: 30px;
+}
+
+
+ .nav > li > a {
+     position: relative;
+     display: block;
+     padding: 10px 12px;
+ }
+.navbar-brand {
+    height: 50px;
+    padding-top: 5px;
+    padding-left: 11px;
+    padding-right: 11px;
+    line-height: 60px;
+}
+.navbar-nav > li > a {
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+button{
+    color: #fff;
+    background-color: #2DCC70;
+}
+.maincontents{
+	padding-top: 107px;
+
+}
+.ordernow{
+    background-color: #c9aa2d;
+    width: 240px;
+    height: 45px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+}
+.order {
+    margin: 25px;
+}
+@media (min-width: 768px){
+    .navbar-nav{
+        float:none;
+        margin: 0 auto;
+        display: table;
+        table-layout: fixed;
+    }
+}
+.navbar-default {
+    background-color: #F9EB92;
+}
+
+.col-sm-6, .col-md-6, .col-lg-6{
+    background-color: rgba(158, 158, 158, 0.26);
+    margin-bottom: 60px;
+    border-radius: 5px;
+}
+input{
+    width:100%;
+    border-radius: 5px;
+}
+textarea{
+    width:100%;
+    border-radius: 5px;
+}
+
+.carousel{
+    background-color: transparent;
+    padding: 0px;
+}
+
+.rightbanner{
+    border-radius: 5px;
+    background-color: #fff;
+}
+.leftbanner{
+        padding-left: 0px;
+}
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+#rgd{
+    width: 95%;
+    padding-left: 5px;
+}
+#pwd{
+    width: 47%;
+    padding-left: 5px;
+}
+.leftbb{
+    width: 48%
+}
+.rightbb{
+    width: 48%
+}
+.myac{
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+}
