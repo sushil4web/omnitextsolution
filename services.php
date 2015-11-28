@@ -2,7 +2,7 @@
 <div class="row">
   <div class="col-sm-3 col-md-3 col-lg-3">
   </div>
-  <div class="col-sm-6 col-md-6 col-lg-6">
+  <div class="col-sm-6 col-md-6 col-lg-6 middlecol">
     <H3>Our Serives</H3>
         <p>For over 10 years now SuperiorPapers.com has been the most trusted source of original academic writing on the web. Each year many students from all over the world rely on the unique assistance that we provide them and the professionalism of our support staff.</p>
         <p>For over 10 years now SuperiorPapers.com has been the most trusted source of original academic writing on the web. Each year many students from all over the world rely on the unique assistance that we provide them and the professionalism of our support staff.</p>

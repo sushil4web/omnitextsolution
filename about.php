@@ -2,7 +2,7 @@
         <div class="row">
           <div class="col-sm-3 col-md-3 col-lg-3">
           </div>
-          <div class="col-sm-6 col-md-6 col-lg-6">
+          <div class="col-sm-6 col-md-6 col-lg-6 middlecol">
             <H3>About Us</H3>
               <H4>Our Writers</H4>
                 <p class="text-justify">Since founding our company in 1997 there is one thing that has always stayed the same and that is our commitment to producing quality academic work. We work hard to provide the highest level of quality and service in the industry. We employ only the most talented team of writers and researchers available. Each new writer must have the educational and research background necessary to meet our strict hiring requirements. Our writers posses either a MA or PhD and have proven professional writing experience. Having the best possible writers and service is what makes Superiorpapers.com the industry leader in original academic products. See for yourself how we can help you with your essay writing needs.</p>

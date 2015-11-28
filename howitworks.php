@@ -3,7 +3,7 @@
 <div class="row">
   <div class="col-sm-3 col-md-3 col-lg-3">
   </div>
-  <div class="col-sm-6 col-md-6 col-lg-6">
+  <div class="col-sm-6 col-md-6 col-lg-6 middlecol">
     <H3>How It Works</H3>
       <img src="img/how-it-works.jpg" width="100%"><br>
         <p>Once you have decided to place a custom writing order with us at AustralianWritings.com, here are the following steps that you need to take.</p>

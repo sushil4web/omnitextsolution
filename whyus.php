@@ -2,7 +2,7 @@
         <div class="row">
           <div class="col-sm-3 col-md-3 col-lg-3">
           </div>
-          <div class="col-sm-6 col-md-6 col-lg-6">
+          <div class="col-sm-6 col-md-6 col-lg-6 middlecol">
             <H2 class="text-center">Why Us</H2>
               <H4>Quality:</H4>
                 <p class="text-justify">The quality thresholds of our Thesis and Dissertations and Statistical Data Analysis are our foremost guarantee. We do not compromise, in any way, on the overriding quality aspects of our varied presentations and are sanguine that these would meet and surpass student expectations in the genre of presentations that we offer to them.</p>
