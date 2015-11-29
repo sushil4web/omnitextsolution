@@ -5,7 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <link rel="shortcut icon" href="img/ots.png">
     <title>OmniTextSolution</title>
+
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -23,41 +25,39 @@
   <body>
     <div class="navbar navbar-default navbar-fixed-top">
       <div class="container">
+        <a class="navbar-brand" href="#"><img src="img/omni1.png"></a>
         <div class="pull-right">
           <a class="navbar-brand" href="myaccount.php">
             <button type="button" class="btn btn-sm">My Account</button></a>
+            <button type="button" class="navbar-toggle new-togle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
         </div>
-        <a class="navbar-brand" href="#"><img src="img/OMNI new.png"></a>
-      </div>
-      <div class="container">
-        <div class="row">
-
+        <div class="container">
+            <div class="row">
+            </div>
+            <div class="collapse navbar-collapse">
+              <ul class="nav navbar-nav">
+                <li> <a href="index.php">HOME</a></li>
+                <li> <a href="about.php">ABOUT US</a></li>
+                <li> <a href="services.php">SERVICES</a></li>
+                <li> <a href="whyus.php">WHY US</a></li>
+                <li> <a href="howitworks.php">HOW IT WORKS</a></li>
+                <li> <a href="faq.php">FAQ</a></li>
+                <li> <a href="contact.php">CONTACT</a></li>
+                <li>
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">MORE<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                      <li> <a href="#">ORDER</a></li>
+                      <li role="separator" class="divider"></li>
+                      <li> <a href="price.php">PRICE</a></li>
+                    </ul>
+                </li>
+              </ul>
+            </div>
         </div>
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-          <div class="collapse navbar-collapse">
-            <ul class="nav navbar-nav">
-              <li> <a href="index.php">HOME</a></li>
-              <li> <a href="about.php">ABOUT US</a></li>
-              <li> <a href="services.php">SERVICES</a></li>
-              <li> <a href="whyus.php">WHY US</a></li>
-              <li> <a href="howitworks.php">HOW IT WORKS</a></li>
-              <li> <a href="faq.php">FAQ</a></li>
-              <li> <a href="contact.php">CONTACT</a></li>
-              <li>
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">MORE<span class="caret"></span></a>
-                  <ul class="dropdown-menu">
-                    <li> <a href="#">ORDER</a></li>
-                    <li role="separator" class="divider"></li>
-                    <li> <a href="price.php">PRICE</a></li>
-                  </ul>
-              </li>
-            </ul>
-          </div>
       </div>
     </div>
     <!-- main Body Start -->

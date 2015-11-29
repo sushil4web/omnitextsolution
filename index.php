@@ -81,7 +81,7 @@
 			          </div>
 			          <div class="form-group">
 				  	    <div>
-				  	    	<input id="rgd" type="submit" name="submit" class="btn btn-primary btn-large" value="Creat New Account"/>
+				  	    	<input id="rgd" type="submit" name="submit" class="btn btn-primary btn-large btnn" value="Create New Account"/>
 			            </div>
 				  	  </div>
 				  	</form>
@@ -90,44 +90,28 @@
 	</div>
 	<div class="bottomsection">
 		<div class="row">
-			<div class="col-sm-4 col-md-4 col-lg-4 ">
-				<h4 class="text-center"><b>ADDRESS</b></h4>
-					<ul class="unstyled address bottomborder">
-						<li><b>Address:</b> Kupondole, Lalitpur Nepal</li>
-						<li><b>Email:</b> info@omnitextsolution.com</li>
-						<li><b>Website:</b> www.omnitextsolution.com</li>
-						<li><b>Phone No:</b> +9779815720356</li>
+			<div class="col-sm-3 col-md-3 col-lg-3 text-center">
+				<h4><b>ADDRESS</b></h4>
+					<ul class="list-unstyled">
+						<li>Kupondole, Lalitpur Nepal</li>
+						<li>info@omnitextsolution.com</li>
+						<li>+9779815720356</li>
 					</ul>
 			</div>
-			<div class="col-sm-4 col-md-4 col-lg-4">
-				<h4 class="text-center"><b>OUR COMPANY</b></h4>
-					<div class="row">
-						<div class="col-sm-6">
-							<ul>
-								<li>About Us</li>
-								<li>Support</li>
-								<li>Terms of Use</li>
-								<li>Privacy Policy</li>
-							</ul>
-						</div>
-						<div class="col-sm-6">
-							<ul class="bottomborder" >
-								<li>Copyright</li>
-								<li>We are hiring</li>
-								<li>Clients</li>
-								<li>Blog</li>
-							</ul>
-						</div>
-					</div>
+			<div class="col-sm-4 col-md-4 col-lg-4 text-center">
+				<h4><b>OUR COMPANY</b></h4>
+				<ul class="list-unstyled">
+					<li>Terms & Conditions</li>
+					<li>Privacy Policy</li>
+					<li>Money Back Guarantee</li>
+				</ul>
 			</div>
-			<div class="col-sm-4 col-md-4 col-lg-4">
+			<div class="col-sm-5 col-md-5 col-lg-5">
 				<h4 class="text-center"><b>WE ACCEPT</b></h4>
 				<div class="row text-center">
 					<a href="#"><img src="img/payoneer.png" class="imgs"></a>
 					<a href="#"><img src="img/mastercard.png" class="imgs"></a>
 					<a href="#"><img src="img/visa.png" class="imgs"></a>
-				</div>
-				<div class="row text-center">
 					<a href="#"><img src="img/skrill.png" class="imgs"></a>
 					<a href="#"><img src="img/paypal.png" class="imgs"></a>
 					<a href="#"><img src="img/esewa.png" class="imgs"></a>
@@ -135,4 +119,5 @@
 			</div>
 		</div>
 	</div>
+
 <?php include('footer.php'); ?>

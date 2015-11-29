@@ -24,7 +24,7 @@ body{
 }
 button{
     color: #fff;
-    background-color: #2DCC70;
+    background-color: #008000;
 }
 .maincontents{
 	padding-top: 107px;
@@ -84,7 +84,7 @@ textarea{
     border-radius: 5px;
     background-color: none;
     border: 2px solid #fff;
-    min-height: 490px;
+    height: 490px;
 }
 .leftbanner{
     padding-left: 0px;
@@ -113,7 +113,7 @@ textarea{
     border: 2px solid #fff;
     border-radius: 5px;
     margin-top: 5px;
-    margin-bottom: 75px;
+    margin-bottom: 40px;
 }
 .imgs{
     border: 1px solid #fff;
@@ -123,4 +123,22 @@ textarea{
 }
 .bottomborder{
     border-right: 1px solid #fff;
+}
+
+.btnn{
+    background-color: #008000;
+    border-color: #008000;
+
+}
+
+@media (max-width: 620px){
+    .copyright{
+        font-size: 11px;
+    }
+    .footergap{
+        height: 28px;
+    }
+}
+.new-togle{
+    margin-top: 20px;
 }
